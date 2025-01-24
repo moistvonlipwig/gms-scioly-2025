@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/gms-scioly-2025/microbe-mission/static/css/main.f855e6bc.css",
-    "main.js": "/gms-scioly-2025/microbe-mission/static/js/main.ef407d2a.js",
-    "static/js/156.0f4b8550.chunk.js": "/gms-scioly-2025/microbe-mission/static/js/156.0f4b8550.chunk.js",
-    "static/media/logo.svg": "/gms-scioly-2025/microbe-mission/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/gms-scioly-2025/microbe-mission/index.html",
-    "main.f855e6bc.css.map": "/gms-scioly-2025/microbe-mission/static/css/main.f855e6bc.css.map",
-    "main.ef407d2a.js.map": "/gms-scioly-2025/microbe-mission/static/js/main.ef407d2a.js.map",
-    "156.0f4b8550.chunk.js.map": "/gms-scioly-2025/microbe-mission/static/js/156.0f4b8550.chunk.js.map"
+    "main.css": "/gms-scioly-2025/optics/static/css/main.2c8728a7.css",
+    "main.js": "/gms-scioly-2025/optics/static/js/main.52a881f0.js",
+    "static/js/156.466c6a2d.chunk.js": "/gms-scioly-2025/optics/static/js/156.466c6a2d.chunk.js",
+    "index.html": "/gms-scioly-2025/optics/index.html",
+    "main.2c8728a7.css.map": "/gms-scioly-2025/optics/static/css/main.2c8728a7.css.map",
+    "main.52a881f0.js.map": "/gms-scioly-2025/optics/static/js/main.52a881f0.js.map",
+    "156.466c6a2d.chunk.js.map": "/gms-scioly-2025/optics/static/js/156.466c6a2d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.ef407d2a.js"
+    "static/css/main.2c8728a7.css",
+    "static/js/main.52a881f0.js"
   ]
 }
